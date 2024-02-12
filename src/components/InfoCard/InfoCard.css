@@ -1,0 +1,8 @@
+article.info{
+    text-align: justify;
+    width: 97%;
+    border: 3px solid var(--secondary-color);
+    border-radius: 8px;
+    padding: 10px 30px;
+    box-shadow: 0 0 5px 1px var(--secondary-color);
+}

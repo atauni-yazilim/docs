@@ -1,0 +1,31 @@
+nav{
+    border-bottom: 1px solid var(--primary-color);
+}
+
+.navbar-brand{
+    margin-left: 10px;
+}
+.navbar-brand span{
+    margin-left: 10px;
+    color: var(--primary-color);
+}
+
+@media screen and (max-width:500px) {
+    nav .navbar-brand{
+        display: none;
+    }
+}
+
+.offcanvas.offcanvas-top{
+    height: 20vh !important;
+}
+
+.offcanvas.show .offcanvas-body .social{
+    justify-content: center;
+    gap: 32px;
+}
+
+.offcanvas.show .offcanvas-body .social a{
+    font-size: 32px;
+    color: rgba(var(--secondary-color-rgb), 0.8);
+}

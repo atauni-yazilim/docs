@@ -1,0 +1,15 @@
+.download-button{
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    position: fixed;
+    right: 20px;
+    z-index: 1000;
+}
+
+@media screen and (max-width:800px) {
+    .download-button span{
+        display: none;
+    }
+}
