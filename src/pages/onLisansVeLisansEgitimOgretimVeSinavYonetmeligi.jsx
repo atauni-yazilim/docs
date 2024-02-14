@@ -4,7 +4,7 @@ import disiplinYonetmeligi from "../docs/Ogrenci-Disiplin-Yonetmeligi.pdf";
 export const onLisansVeLisansEgitimOgretimVeSinavYonetmeligi = {
     title : "Ön Lisans ve Lisans Eğitim Öğretim ve Sınav Yönetmeliği",
     pdfFile,
-    fileName : "asdasd",
+    fileName : "Ataturk-Universitesi-On-Lisans-ve-Lisans-Egitim-Ogretim-ve-Sinav-Yonetmeligi",
     infos : [
         {
             index: 1,
