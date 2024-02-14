@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/docs/static/css/main.fd741a28.css",
-    "main.js": "/docs/static/js/main.131cc1dc.js",
+    "main.css": "/docs/static/css/main.0237a12f.css",
+    "main.js": "/docs/static/js/main.86a9febf.js",
+    "static/media/Ataturk-Universitesi-On-Lisans-ve-Lisans-Egitim-Ogretim-ve-Sinav-Yonetmeligi.pdf": "/docs/static/media/Ataturk-Universitesi-On-Lisans-ve-Lisans-Egitim-Ogretim-ve-Sinav-Yonetmeligi.296b0176d4fa89123df7.pdf",
+    "static/media/Ataturk-Universitesi-Cift-Anadal-Programi-ve-Yandal-Program-Uygulama-Esaslari_29.09.2026.pdf": "/docs/static/media/Ataturk-Universitesi-Cift-Anadal-Programi-ve-Yandal-Program-Uygulama-Esaslari_29.09.2026.753b5591807bf24b3b1c.pdf",
+    "static/media/Ogrenci-Disiplin-Yonetmeligi.pdf": "/docs/static/media/Ogrenci-Disiplin-Yonetmeligi.2cc2c747e36130b7b5c4.pdf",
     "static/media/logo512.png": "/docs/static/media/logo512.2bc04873d9b76b815452.png",
+    "static/media/solidWhitePdf.svg": "/docs/static/media/solidWhitePdf.069bd7aa91c0b96351e711b07dd7150b.svg",
     "index.html": "/docs/index.html",
-    "main.fd741a28.css.map": "/docs/static/css/main.fd741a28.css.map",
-    "main.131cc1dc.js.map": "/docs/static/js/main.131cc1dc.js.map"
+    "main.0237a12f.css.map": "/docs/static/css/main.0237a12f.css.map",
+    "main.86a9febf.js.map": "/docs/static/js/main.86a9febf.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd741a28.css",
-    "static/js/main.131cc1dc.js"
+    "static/css/main.0237a12f.css",
+    "static/js/main.86a9febf.js"
   ]
 }
