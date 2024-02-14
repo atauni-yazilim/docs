@@ -3,7 +3,7 @@ import pdfFile from "../docs/Ataturk-Universitesi-Cift-Anadal-Programi-ve-Yandal
 export const ciftAnaDal = {
     title : "Çift Anadal",
     pdfFile,
-    fileName : "asdasd",
+    fileName : "Ataturk-Universitesi-Cift-Anadal-Programi-ve-Yandal-Program-Uygulama-Esaslari_29.09.2026",
     infos : [
         {
             index: 1,
