@@ -1,11 +1,13 @@
 import InfoCard from "../InfoCard/InfoCard"
 import "./MainContent.css";
+import DownloadButton from "../Buttons/DownloadButton/DownloadButton";
 
-const MainContent = ({ title, infos }) => {
+const MainContent = ({ title, pdfFile, fileName, infos  }) => {
     return (
         <main>
             <h2>{title}</h2>
-            { infos.map (info => <InfoCard info = {info} />)}
+            <DownloadButton pdfFile={pdfFile} fileName={fileName} text={"Pdf İndir"}/>
+            { infos.map (info => <InfoCard key={`info_${info.index}`} info = {info.text} />)}
         </main>
     )
 }

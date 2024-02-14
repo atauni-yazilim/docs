@@ -42,7 +42,7 @@ const SideNav = ({ pages }) => {
                 <Tab.Content>
                     {pages.map((page, index) => (
                         <Tab.Pane key={`${page.title}_pane_${index}`} eventKey={`#${page.title}`}>
-                            <MainContent title={page.title} infos={page.infos}/>
+                            <MainContent key={`page_${index}`} title={page.title} pdfFile = {page.pdfFile} fileName = {page.fileName} infos={page.infos} />
                         </Tab.Pane>
                     ))}
                 </Tab.Content>
