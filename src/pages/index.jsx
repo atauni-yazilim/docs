@@ -8,6 +8,5 @@ export const pages = [
     ciftAnaDal,
     yandal,
     onLisansVeLisansEgitimOgretimVeSinavYonetmeligi,
-    danismanlik,
-    yazOkulu
+    danismanlik
 ];
