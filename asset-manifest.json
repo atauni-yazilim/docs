@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/docs/static/css/main.0237a12f.css",
-    "main.js": "/docs/static/js/main.851eab1e.js",
+    "main.js": "/docs/static/js/main.6ed33e28.js",
     "static/media/Ataturk-Universitesi-On-Lisans-ve-Lisans-Egitim-Ogretim-ve-Sinav-Yonetmeligi.pdf": "/docs/static/media/Ataturk-Universitesi-On-Lisans-ve-Lisans-Egitim-Ogretim-ve-Sinav-Yonetmeligi.296b0176d4fa89123df7.pdf",
     "static/media/Atauni - OnLisans ve Lisans Ogrenci Danismanligi.pdf": "/docs/static/media/Atauni - OnLisans ve Lisans Ogrenci Danismanligi.4a7b7ff478d98413354a.pdf",
     "static/media/Ataturk-Universitesi-Cift-Anadal-Programi-ve-Yandal-Program-Uygulama-Esaslari_29.09.2026.pdf": "/docs/static/media/Ataturk-Universitesi-Cift-Anadal-Programi-ve-Yandal-Program-Uygulama-Esaslari_29.09.2026.753b5591807bf24b3b1c.pdf",
@@ -10,10 +10,10 @@
     "static/media/solidWhitePdf.svg": "/docs/static/media/solidWhitePdf.069bd7aa91c0b96351e711b07dd7150b.svg",
     "index.html": "/docs/index.html",
     "main.0237a12f.css.map": "/docs/static/css/main.0237a12f.css.map",
-    "main.851eab1e.js.map": "/docs/static/js/main.851eab1e.js.map"
+    "main.6ed33e28.js.map": "/docs/static/js/main.6ed33e28.js.map"
   },
   "entrypoints": [
     "static/css/main.0237a12f.css",
-    "static/js/main.851eab1e.js"
+    "static/js/main.6ed33e28.js"
   ]
 }
